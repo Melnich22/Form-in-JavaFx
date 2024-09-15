@@ -37,6 +37,7 @@ public class Main extends Application {
 			
 			//scene.getStylesheets().add(getClass().getResource("application.css").toExternalForm());
 			//Erstellung von Button(Controls)
+			//Erstellung von Button(Controls)
 			GridPane Root = new GridPane();
 			Root.setAlignment(Pos.CENTER);
 			Root.setHgap(10);// Horizontal Abstand zwischen Linien
